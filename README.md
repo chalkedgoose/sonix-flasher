@@ -1,5 +1,7 @@
 # Sonix Flasher
 
+Editing this fork to trigger github action
+
 ## Usage
 
 ### Entering bootloader
